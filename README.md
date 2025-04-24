@@ -1,4 +1,4 @@
-# Projeto AluraStoe - Análise de Vendas Multiloja com Python
+# Projeto AluraStore - Análise de Vendas Multiloja com Python
 
 Projeto realizado para analisar dados de vendas de quatro lojas diferentes, com o objetivo de ajudar o Senhor João a decidir qual loja da sua rede Alura Store vender para iniciar um novo empreendimento. A análise foi feita utilizando Python e bibliotecas como Pandas e Matplotlib no Google Colab.
 
