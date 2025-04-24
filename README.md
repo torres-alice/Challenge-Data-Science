@@ -48,7 +48,7 @@ Um relatório executivo estruturado foi incluído no notebook, apresentando:
 
 Abra o notebook no Google Colab ou Jupyter:
 
-> [`https://drive.google.com/file/d/1VZLdkkv5eLfjQkzKImd2974oX_p479v_/view?usp=sharing`](#) ← (adicione o link para seu notebook aqui)
+> [`https://drive.google.com/file/d/1VZLdkkv5eLfjQkzKImd2974oX_p479v_/view?usp=sharing`](#)
 
 ---
 
